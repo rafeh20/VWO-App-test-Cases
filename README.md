@@ -12,12 +12,5 @@ Excel: Documentation tool for test scenarios and cases.
 
 **Future Updates**:
 
-Add actual results after execution
-
 Include additional test scenarios for other modules of the application
 
-**⚠️ Note**:
-
-The Excel file currently contains only the expected results
-
-The actual results are yet to be updated
